@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+*.js.map
+.tmp/
+credentials.json
+token.json
